@@ -1,0 +1,1 @@
+An e-commerce website for selling phones, developed with pure PHP, MySQL, and HTML (no frameworks). Includes an admin dashboard to manage products, categories, promotions, delivery zones, and orders. The client side features a product catalog, shopping cart, wishlist, contact form with email support, newsletter subscription, and secure online payment.
